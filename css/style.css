@@ -1,13 +1,11 @@
-@font-face {
-    font-family: daniel;
-    src: url(../font/MTNBrighterSans-Regular.otf);
-}
-
-
 
 *{
     padding: 0;
     margin: 0;
+}
+@font-face {
+    font-family: daniel;
+    src: url(../font/MTNBrighterSans-Regular.otf);
 }
 
 .nav{
@@ -41,7 +39,7 @@
 }
 .pc-mobile{
     text-align: center;
-    color: white;
+    color: #fff;
     font-family: daniel;
     /* border: solid green; */
 }
