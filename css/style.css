@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 @font-face {
     font-family: daniel;
     src: url(../font/MTNBrighterSans-Regular.otf);
 }
+=======
+>>>>>>> 9128266086592082ad13e4bb0c45d77020917c86
 
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+@font-face {
+    font-family: daniel;
+    src: url(../font/MTNBrighterSans-Regular.otf);
 }
 
 .nav{
@@ -42,7 +49,7 @@
 }
 .pc-mobile{
     text-align: center;
-    color: white;
+    color: #fff;
     font-family: daniel;
     /* border: solid green; */
 }
